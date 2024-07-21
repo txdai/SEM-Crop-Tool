@@ -2,9 +2,7 @@
 
 ## Overview
 
-The SEM Image Processor is a web-based application designed to process Scanning Electron Microscope (SEM) images of periodic silicon 2D structures. This tool allows users to upload TIFF images, select specific regions of interest, apply transformations, and extract exact boundaries of structures within the image.
-
-[Include a screenshot of the main application interface here]
+The SEM Image Crop tool is a web-based application designed to process Scanning Electron Microscope (SEM) images of periodic silicon 2D structures. This tool allows users to upload TIFF images, select specific regions of interest, apply transformations, and extract exact boundaries of structures within the image.
 
 ## Features
 
@@ -51,14 +49,14 @@ The SEM Image Processor is a web-based application designed to process Scanning 
 2. Open a web browser and navigate to `http://localhost:5000`
 3. Upload an SEM image
 
-   ![1721547555808](image/README/1721547555808.png)
+   ![1721547555808](image/README/1721547555808.jpg)
 4. Select four points on the image to define the region of interest
 
-   ![1721547577866](image/README/1721547577866.png)
+   ![1721547577866](image/README/1721547577866.jpg)
 5. Click "Apply Transform" to process the selected region
 6. Use the drawing tools to mark the boundaries of structures in the image
 
-   ![1721547601001](image/README/1721547601001.png)
+   ![1721547601001](image/README/1721547601001.jpg)
 7. Click "Process Image" to extract the marked structures
 8. Download the processed image using the "Download Result" button
 
